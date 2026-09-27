@@ -8,3 +8,6 @@ env.bak/
 venv.bak/
 llms/
 llms.bak/
+
+# Jupyter
+.ipynb_checkpoints/
